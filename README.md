@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!--
-**CyberSecurityUP/CyberSecurityUP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**CyberSecurityedu/CyberSecurityedu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### I'm Joas Antonio
+### I'm Tokupens
 
 Red Team Expert | InfoSec Leader | OWASP Member | Speaker and Teaching | Cyber Security Mentor | Article Writer | Mitre Att&ck Contributor | Hacking is NOT a Crime Advocate
 
